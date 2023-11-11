@@ -9,7 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!333");
         System.out.printf("Hello and welcome!444");
         System.out.printf("Hello and welcome!555");
-        System.out.printf("Hello and welcome!666");
+        System.out.printf("Hello and welcome!77");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
